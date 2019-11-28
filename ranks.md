@@ -25,5 +25,6 @@ Nota: apartir do level 103 você se torna "uma lenda viva" e por isso inclui lin
 |      [Miyamoto](https://pt.wikipedia.org/wiki/Miyamoto_Musashi)       | 138 |
 |        [Jimmu](https://pt.wikipedia.org/wiki/Jimmu)        | 150 |
 
-
-[Antiga lista](http://prntscr.com/eqz6y6/direct)
+Refs:
+ - [Antiga lista](http://prntscr.com/eqz6y6/direct)
+ - [Sistema de Nível](https://github.com/dream-animes/v3-updates/blob/master/leveling.md)
