@@ -26,3 +26,4 @@ Nota: apartir do level 110 você se torna "uma lenda viva" e por isso inclui lin
 |        [Jimmu](https://pt.wikipedia.org/wiki/Jimmu)        | 150 |
 
 
+[Antiga lista](http://prntscr.com/eqz6y6/direct)
