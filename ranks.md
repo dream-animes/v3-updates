@@ -17,8 +17,8 @@ Nota: apartir do level 103 você se torna "uma lenda viva" e por isso inclui lin
 |       Hanshi        | 81 |
 |       Shihan        | 86 |
 |       Meijin        | 90 |
-|        Bushi        | 99 |
-|        Xogum        | 103 |
+|        Xogum        | 99 |
+|       Tennō         | 103 |
 |   [O Tigre de Kai](https://pt.wikipedia.org/wiki/Takeda_Shingen)    | 107 |
 | [O Dragão de Echigo](https://pt.wikipedia.org/wiki/Uesugi_Kenshin)  | 115 |
 |      [Hideyoshi](https://pt.wikipedia.org/wiki/Toyotomi_Hideyoshi)      | 125 |
