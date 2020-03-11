@@ -48,9 +48,11 @@
 | Bombeiro da 8° Divisão | Bombeira da 8° Divisão | ![#fcaa06 ](https://placehold.it/15/fcaa06/000000?text=+) |
 | Demônio Sorridente | Demônio Sorridente | ![#6a49a2 ](https://placehold.it/15/6a49a2/000000?text=+) |
 | Vasto Lorde | Vasto Lorde | ![#ff9720 ](https://placehold.it/15/ff9720/000000?text=+) |
-| O Pássaro Monstruoso de Qin | O Pássaro Monstruoso de Qin | ![#548393 ](https://placehold.it/15/548393/000000?text=+) |
+| O Pássaro Monstruoso de Qin | Pássaro Monstruoso de Qin | ![#548393 ](https://placehold.it/15/548393/000000?text=+) |
 | Demônio Celestial | Demônio Celestial | ![#5263ae ](https://placehold.it/15/5263ae/000000?text=+) |
 | Cavaleiro da Integridade | Cavaleira da Integridade | ![#3956c8 ](https://placehold.it/15/3956c8/000000?text=+) |
 | Demônio do gás oculto | Demônio do gás oculto | ![#63c2d6 ](https://placehold.it/15/63c2d6/000000?text=+) |
 | Sennin | Sennin | ![#9b3a44 ](https://placehold.it/15/9b3a44/000000?text=+) |
 | Uncrowned Kings | Uncrowned Kings | ![#23a4b8](https://placehold.it/15/23a4b8/000000?text=+) |
+
+Alguns titulos não foram colocados na conotação feminina pois perderiam muito do seu significado.
