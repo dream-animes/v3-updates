@@ -31,7 +31,7 @@
 | Magic Shooter | Magic Shooter | ![#fa03c8 ](https://placehold.it/15/fa03c8/000000?text=+) |
 | Sekiryuutei | Sekiryuutei | ![#f24119 ](https://placehold.it/15/f24119/000000?text=+) |
 | Star Platinum | Star Platinum | ![#d092e8 ](https://placehold.it/15/d092e8/000000?text=+) |
-| Olhos de Falcão | Olhos de Falcão | ![#7b683d ](https://placehold.it/15/7b683d/000000?text=+) |
+| Olhos de Falcão | Olhos de Falcão | ![#FFFF00](https://placehold.it/15/FFFF00/000000?text=+) |
 | Dragão Branco de Olhos Azuis | Dragão Branco de Olhos Azuis | ![#0d7bf9 ](https://placehold.it/15/0d7bf9/000000?text=+) |
 | Mago Negro | Maga Negra | ![#5f478e ](https://placehold.it/15/5f478e/000000?text=+) |
 | Mestre das Trevas | Mestra das Trevas | ![#81508e ](https://placehold.it/15/81508e/000000?text=+) |
