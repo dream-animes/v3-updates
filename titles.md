@@ -15,7 +15,7 @@
 | Kuro no Shinigami | Kuro no Shinigami | ![#000000 ](https://placehold.it/15/000000/000000?text=+) |
 | Símbolo da paz | Símbolo da paz | ![#f4f421 ](https://placehold.it/15/f4f421/000000?text=+) |
 | Shiroyasha | Shiroyasha | ![#ffffff ](https://placehold.it/15/ffffff/000000?text=+) |
-| Psicopata | Psicopata | ![#1c40ce ](https://placehold.it/15/1c40ce/000000?text=+) |
+| Pescotapa | Pescotapa | ![#1c40ce ](https://placehold.it/15/1c40ce/000000?text=+) |
 | Yonkou | Yonkou | ![#f2b119 ](https://placehold.it/15/f2b119/000000?text=+) |
 | Super Colegial | Super Colegial | ![#a98332 ](https://placehold.it/15/a98332/000000?text=+) |
 | Kuuhaku | Kuuhaku | ![#ff7d2b ](https://placehold.it/15/ff7d2b/000000?text=+) |
@@ -54,5 +54,14 @@
 | Demônio do gás oculto | Demônio do gás oculto | ![#63c2d6 ](https://placehold.it/15/63c2d6/000000?text=+) |
 | Sennin | Sennin | ![#9b3a44 ](https://placehold.it/15/9b3a44/000000?text=+) |
 | Uncrowned Kings | Uncrowned Kings | ![#23a4b8](https://placehold.it/15/23a4b8/000000?text=+) |
+| O Brasileirinho | A Brasileirinha | ![#ffff00 ](https://placehold.it/15/ffff00/000000?text=+) |
+| O Jaré do Coronga | A Jaré do Coronga | ![#009933 ](https://placehold.it/15/009933/000000?text=+) |
+| O Pica das Galáxias | A Pica das Galáxias | ![#0033cc ](https://placehold.it/15/0033cc/000000?text=+) |
+| Aquele que não teme Yuri | Aquela que não teme Yuri | ![#ff00ff ](https://placehold.it/15/ff00ff/000000?text=+) |
+| Aquele que não teme Yaoi | Aquela que não teme Yaoi | ![#ff00ff ](https://placehold.it/15/ff00ff/000000?text=+) |
+| O pobretão sem VIP | A pobretona sem VIP | ![#663300 ](https://placehold.it/15/663300/000000?text=+) |
+| O Órfão da Keiko | A Órfã da Keiko | ![#0044b8 ](https://placehold.it/15/0044b8/000000?text=+) |
+| A Luz na escuridão | A Luz na escuridão | ![#FFFFFF ](https://placehold.it/15/FFFFFF/000000?text=+) |
+| A Escuridão da luz | A Escuridão da luz | ![#000000 ](https://placehold.it/15/000000/000000?text=+) |****
 
 Alguns titulos não foram colocados na conotação feminina pois perderiam muito do seu significado.
